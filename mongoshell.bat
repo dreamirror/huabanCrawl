@@ -1,0 +1,1 @@
+"C:\Program Files\MongoDB\Server\3.0\bin\mongo.exe" --shell --host 192.168.2.207:30000
