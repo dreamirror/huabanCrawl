@@ -1,3 +1,4 @@
 #########server ignore start#########
 *.pyc
+.vscode/
 

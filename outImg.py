@@ -4,7 +4,8 @@ import requests
 import mongoMgr
 
 
-file_path = r'E:\huaban'
+# file_path = r'E:\huaban'
+file_path = r'./'
 n = 1
 
 def writeImg(name,content):
